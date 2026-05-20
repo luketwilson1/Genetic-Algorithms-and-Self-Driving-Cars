@@ -1,4 +1,4 @@
-# Genetic Algorithm Self-Driving Car (Updates)
+# Genetic Algorithm Self-Driving Car (Reupload)
 
 A Unity self-driving car simulation that trains an artificial neural network with a genetic algorithm. Each car reads three raycast sensors, feeds those sensor values into a neural network, and uses the network output to control acceleration and steering. Better-performing networks are selected, crossed over, mutated, and reused in the next generation.
 
