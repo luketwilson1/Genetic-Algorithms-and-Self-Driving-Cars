@@ -10,6 +10,9 @@ This project is built around three main scripts:
 - `NeuralNetwork.cs` stores and runs the artificial neural network.
 - `GeneticManager.cs` manages the population, selection, crossover, mutation, generations, and training speed.
 
+![Self-driving car training view](Images/car-training-1.png)
+![Car sensor and driving simulation](Images/car-training-2.png)
+
 ## Requirements
 
 - Unity 6.4 or newer
